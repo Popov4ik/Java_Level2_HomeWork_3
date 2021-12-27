@@ -42,7 +42,7 @@ public class MainApp {
         TelBook.add("Игнатов", "8(495)647-37-11");
         TelBook.add("Котов", "8(495)777-66-55");
         TelBook.add("Котов", "8(926)515-71-17");
-        TelBook.add("Котов", "8(915)308-55-44");
+        TelBook.add("Котов", "8(915)308-55-33");
 
         TelBook.get();
 
